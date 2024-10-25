@@ -44,3 +44,5 @@ explosion_images = [pygame.image.load(f"assets/explosion/ex{i}.png") for i in ra
 player_explosion_images = [pygame.image.load(f"assets/playerExplosion/explosion{i}.png") for i in range(1, 5)]
 enemy_image = pygame.transform.scale(pygame.image.load("assets/nice.png"), (40, 40))
 enemy_image_rotated = pygame.transform.rotate(enemy_image, 360)
+![Screenshot 2024-10-25 123102](https://github.com/user-attachments/assets/8d581e62-8d64-4bd3-b759-7b8803a3cfe9)
+![Screenshot 2024-10-25 123145](https://github.com/user-attachments/assets/d327932d-90b6-4ad9-84c5-497d2cc418b2)
